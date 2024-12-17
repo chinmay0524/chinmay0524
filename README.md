@@ -1,6 +1,7 @@
 # 🌟 Welcome to My World of Data, Analytics & Mindful Insights 🌟
 
-> *"Clarity is the path to precision, and precision is the path to impact."*  
+> *"Clarity of purpose leads to clarity of action, and clarity of action leads to meaningful
+ impact."*  
 — Inspired by Om Swami
 
 ---
