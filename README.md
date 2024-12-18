@@ -56,7 +56,7 @@ The calm precision of a clear mind mirrors my technical proficiency. Below are t
 - Power BI for Interactive Dashboards
 - Data Storytelling to Communicate Insights
 
-**👉 [View Full Project](#) 👈** (This link will be updated to your actual project location)
+**👉 [View Full Project](https://github.com/chinmay0524/My-Projects?tab=readme-ov-file) 👈** (This link will be updated to your actual project location)
 
 ![General Dashboard](./images/general_dashboard.jpg)
 
@@ -101,7 +101,7 @@ If you’re looking for a collaborator, a data wizard, or simply want to connect
 
 - **🌐 LinkedIn**: [Chinmay Sharma](https://linkedin.com/in/chinmaysharma0524)
 - **📧 Email**: [chinmaysharma0524@outlook.com](mailto:chinmaysharma0524@outlook.com)
-- **📁 GitHub Repos**: [My Projects](https://github.com/chinmay0524)
+- **📁 GitHub Repos**: [My Projects](https://github.com/chinmay0524/My-Projects)
 
 ---
 
