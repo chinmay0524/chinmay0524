@@ -56,7 +56,7 @@ The calm precision of a clear mind mirrors my technical proficiency. Below are t
 - Power BI for Interactive Dashboards
 - Data Storytelling to Communicate Insights
 
-**👉 [View Full Project](https://github.com/chinmay0524/My-Projects/tree/main/Data-Industry-Salaries-Project) 👈**  
+**👉 [View Full Project](https://github.com/chinmay0524/My-Projects/tree/main/Data%20Industry%20Salaries) 👈**  
 **📊 [View Interactive Dashboard](https://app.powerbi.com/groups/me/reports/34ea1cd6-8a18-4c2d-af59-6804c8f4e6fe/ReportSection?experience=power-bi) 📊**
 
 ---
