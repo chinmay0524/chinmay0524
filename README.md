@@ -1,6 +1,6 @@
 # 🧘‍♂️ **Welcome to the Realm of Clarity and Insight**
 
-> _"Purity of intention and clarity of purpose are the pillars of greatness."_
+> _"Purity of intention and clarity of purpose are the pillars of meaningful work."_
 
 Welcome to my GitHub profile — a sanctuary of data, analytics, and mindful exploration. Here, purpose meets precision. My journey is driven by curiosity, honed by practice, and guided by the wisdom of simplicity.
 
