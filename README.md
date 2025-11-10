@@ -8,10 +8,13 @@ Welcome to my GitHub profile — a sanctuary of data, analytics, and mindful exp
 
 ## 🌌 **About Me**
 
-I am **Chinmay Sharma**, a Business and Data Analytics Professional with over **4 years of analytical experience**. My story is one of transformation, perseverance, and growth — from a Research Analyst driving insights for European telecom giants to a data enthusiast on a quest for deeper clarity in the world of numbers.
+I am **Chinmay Sharma**, a Data and AI Analytics professional whose journey combines analytical experience, practical resilience, and steady upskilling. After relocating to the UK in **2021**, I took on different roles while adapting to a new chapter of life. Those years strengthened my discipline and helped me stay focused on long-term goals, even when the path was not linear.
 
-As I tread this path, I strive to embody the values of discipline, detachment, and diligence. My work is more than analytics — it is the art of transforming data into wisdom.
+My formal return to analytics began in **2024**, when I completed a Data Analytics Bootcamp and rebuilt my foundation in Python, SQL, dashboards, and analytical thinking. Today, I am deepening my capabilities through an **AI & Machine Learning Bootcamp**, where I am working with model development, explainability, and responsible AI.
 
+Earlier in my career, as a Research Analyst for European telecom markets, I learned to approach data with clarity, patience, and attention to detail — habits that still guide my work.
+
+I now focus on creating solutions that bring order to complexity: clean models, purposeful dashboards, and analytical workflows that help others make decisions with confidence and calm. My aim is simple: steady effort, clear insight, and work that aligns intention with usefulness.
 ---
 
 ## 🔥 **My Core Skills**
