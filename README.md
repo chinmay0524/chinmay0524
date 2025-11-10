@@ -1,4 +1,4 @@
-# 🧘‍♂️ **Welcome to the Realm of Clarity and Insight**
+# 🧘‍♂️ **Live. Love. Laugh. Give.**
 
 > _"Purity of intention and clarity of purpose are the pillars of meaningful work."_
 
