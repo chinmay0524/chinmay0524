@@ -14,8 +14,9 @@ My formal return to analytics began in **2024**, when I completed a Data Analyti
 
 Earlier in my career, as a Research Analyst for European telecom markets, I learned to approach data with clarity, patience, and attention to detail — habits that still guide my work.
 
-**I now focus on creating solutions that bring order to complexity: clean models, purposeful dashboards, and analytical workflows that help others make decisions with confidence and calm. My aim is simple: steady effort, clear insight, and work that aligns intention with usefulness.
-**---
+I now focus on creating solutions that bring order to complexity: clean models, purposeful dashboards, and analytical workflows that help others make decisions with confidence and calm. My aim is simple: steady effort, clear insight, and work that aligns intention with usefulness.
+
+---
 
 ## 🔥 **My Core Skills**
 
