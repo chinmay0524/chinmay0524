@@ -2,7 +2,7 @@
 
 > _"Purity of intention and clarity of purpose are the pillars of meaningful work."_
 
-Welcome to my GitHub profile — a sanctuary of data, analytics, and mindful exploration. Here, purpose meets precision. My journey is driven by curiosity, honed by practice, and guided by the wisdom of simplicity.
+Welcome to my GitHub profile. This space holds my work in AI, machine learning and analytical practice — built with steady effort and a preference for simplicity and clear structure.
 
 ---
 
@@ -10,12 +10,11 @@ Welcome to my GitHub profile — a sanctuary of data, analytics, and mindful exp
 
 I am **Chinmay Sharma**, a Data and AI Analytics professional whose journey combines analytical experience, practical resilience, and steady upskilling. After relocating to the UK in **2021**, I took on different roles while adapting to a new chapter of life. Those years strengthened my discipline and helped me stay focused on long-term goals, even when the path was not linear.
 
-My formal return to analytics began in **2024**, when I completed a Data Analytics Bootcamp and rebuilt my foundation in Python, SQL, dashboards, and analytical thinking. Today, I am deepening my capabilities through an **AI & Machine Learning Bootcamp**, where I am working with model development, explainability, and responsible AI.
+After rebuilding my technical foundation in **2024**, by completing a Data Analytics Bootcamp, I am deepening my capabilities through an **AI & Machine Learning Bootcamp**, where I am getting hands-on experience in model development, deep learning, NLP and responsible AI practices.
 
 Earlier in my career, as a Research Analyst for European telecom markets, I learned to approach data with clarity, patience, and attention to detail — habits that still guide my work.
 
-I now focus on creating solutions that bring order to complexity: clean models, purposeful dashboards, and analytical workflows that help others make decisions with confidence and calm. My aim is simple: steady effort, clear insight, and work that aligns intention with usefulness.
-
+My work centres on bringing order to complexity—clean code, thoughtful models, and well-structured analytical workflows that support clear decisions.
 ---
 
 ## 🔥 **My Core Skills**
