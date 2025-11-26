@@ -15,6 +15,7 @@ After rebuilding my technical foundation in **2024**, by completing a Data Analy
 Earlier in my career, as a Research Analyst for European telecom markets, I learned to approach data with clarity, patience, and attention to detail — habits that still guide my work.
 
 My work centres on bringing order to complexity—clean code, thoughtful models, and well-structured analytical workflows that support clear decisions.
+
 ---
 
 ## 🔥 **My Core Skills**
@@ -25,6 +26,7 @@ The calm precision of a clear mind mirrors my technical proficiency. Below are t
 
 ### **Technical Tools & Expertise**
 
+- **AI & Machine Learning**: Supervised, Unsupervised and Reinforcement Learning, Neural Networks & Deep Learning, NLP and Text Processing, Model Evaluation, Explainability & Ethical AI
 - **Data Analytics & Visualization**: Python (Pandas, Matplotlib, Seaborn), Power BI, Tableau, Microsoft Excel
 - **Data Management**: SQL, Relational and Non-relational Databases, Azure Fundamentals
 - **Business Analysis**: Requirements Gathering, Stakeholder Engagement, Process Improvement
